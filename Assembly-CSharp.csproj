@@ -62,8 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CollectionView\CollectionTabFilter.cs" />
     <Compile Include="Assets\Scripts\Interface\ICard.cs" />
-    <Compile Include="Assets\Scripts\Models\AssetCard.cs" />
-    <Compile Include="Assets\Scripts\Models\ScriptableCards.cs" />
+    <Compile Include="Assets\Scripts\SO\ScriptableCards.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>G:/Unity Projects/CardGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
